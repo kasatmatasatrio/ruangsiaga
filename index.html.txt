@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ruang Radar</title>
+  <meta charset="UTF-8">
+  <style>
+    body { margin:0; }
+    iframe { width:100%; height:100vh; border:none; }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbz202OG_yFaM2w-ksaFfY9-vuWFR3mB5hMOASSIKaJ5QMvGPdjQNRd9jy7KjpAmrQINIQ/exec"></iframe>
+</body>
+</html>
